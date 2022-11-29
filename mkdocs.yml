@@ -1,0 +1,6 @@
+site_name: My Docs
+theme: rtd-dropdown
+nav:
+    - Home: index.md
+    - One: first.md
+    - 1111: second.md
